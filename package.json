@@ -1,0 +1,18 @@
+{
+    "name": "pbrpcjs",
+    "version": "0.0.4", 
+    "description": "pbrpc client for node", 
+    "main": "src/pbrpc_protocol.js", 
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }, 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/Clouda-team/rapid-core.git"
+    },
+		"dependencies": {
+			  "node-protobuf" : "*"
+		},
+    "author": "wangsu <wangsu01@baidu.com>", 
+    "license": "MIT"
+}
